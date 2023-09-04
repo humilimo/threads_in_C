@@ -1,0 +1,2 @@
+COMPILAR: gcc -pthread nomeArq.c -o nomeExe
+EXECUTAR: ./nomeExe
